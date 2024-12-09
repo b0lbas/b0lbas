@@ -1,16 +1,21 @@
-## Hi there 👋
+<h2> Hello there, I'm Vladislav Bolbas! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<!--
-**b0lbas/b0lbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRxcDBscm8xdzZnbXZkenZkY2JoY2pxZHhkZjA4ZTE0ZGFvczJmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" width='130'/> 
 
-Here are some ideas to get you started:
+[
+![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://bolbas.dev/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bolbas/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)](https://leetcode.com/u/curriy/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I am a software engineer experienced in designing and building applications using Python, Godot, and Rust. My interests lie in backend development and data science. I am also an active contributor to the open-source world, where I enjoy collaborating and sharing knowledge.
+
+## 👨‍💻 Professional Skills
+
+-  **Languages:**  Python, Rust, GodotLang
+-  **Libraries & Frameworks:** Django, pyTelegramBotAPI, pandas, axum
+-  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB)
+
+## 🎓 Communities 
+
+- <a link href="https://lyceum.by/"><b>Lyceum BSU</b></a> (Student) - 2021-2023
+- <a link href="https://www.bsuir.by/en/"><b>BSUIR</b></a> (Student) - 2023-2024
+- <a link href="https://harbour.space/"><b>Harbour.Space</b></a> (Student) - 2024 - Present
