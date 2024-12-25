@@ -10,7 +10,7 @@ I am a software engineer experienced in designing and building applications usin
 
 ## 👨‍💻 Professional Skills
 
--  **Languages:**  Python, Rust, GodotLang
+-  **Languages:**  Python, Rust, GDScript
 -  **Libraries & Frameworks:** Django, pyTelegramBotAPI, pandas, axum
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB)
 
