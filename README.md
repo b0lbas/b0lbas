@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Vladislav Bolbas! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Hello there, I'm the flame! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRxcDBscm8xdzZnbXZkenZkY2JoY2pxZHhkZjA4ZTE0ZGFvczJmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.webp" width='130'/> 
 
@@ -8,14 +8,12 @@
 
 I am a software engineer experienced in designing and building applications using Python, Godot, and Rust. My interests lie in backend development and data science. I am also an active contributor to the open-source world, where I enjoy collaborating as well as sharing knowledge.
 
-## 👨‍💻 Professional Skills
+## Professional Skills
 
 -  **Languages:**  Python, Rust, GDScript
 -  **Libraries & Frameworks:** Django, pyTelegramBotAPI, pandas, axum
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB)
 
-## 🎓 Communities 
+## Communities 
 
-- <a link href="https://lyceum.by/"><b>Lyceum BSU</b></a> (Student) - 2021-2023
-- <a link href="https://www.bsuir.by/en/"><b>BSUIR</b></a> (Student) - 2023-2024
-- <a link href="https://harbour.space/"><b>Harbour.Space</b></a> (Student) - 2024 - Present
+- None
