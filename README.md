@@ -4,8 +4,6 @@
 
 There is always some madness in love. But there is also always some reason in madness.
 
-## Professional Skills
-
 -  **Languages:**  Python, Rust, GDScript
 -  **Libraries & Frameworks:** Django, pyTelegramBotAPI, pandas, axum
 -  **Database:** Relational Database (SQL, PostgreSQL) / Non-Relational Database (MongoDB)
